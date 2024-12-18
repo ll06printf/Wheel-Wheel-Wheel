@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# 构建文件夹
+cmake-build*/
+
+# IDE 配置
+.idea/
